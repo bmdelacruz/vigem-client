@@ -1,0 +1,11 @@
+[package]
+authors = ["bryanmdlx"]
+edition = "2018"
+name = "vigem-client"
+version = "0.1.0"
+
+[dependencies]
+log = "0.4.13"
+
+[build-dependencies]
+bindgen = "0.56.0"
